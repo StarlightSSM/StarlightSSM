@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Naver-#03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <br>
 ![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarlightSSM&show_icons=true&theme=radical)
