@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 
 <br>
 
+![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarlightSSM&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightSSM&theme=blue-green)
+
+<br>
+
 Skills <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -67,12 +73,4 @@ Games I enjoy Most In... <br>
 <br>
 
 <img src="https://img.shields.io/github/stars/StarlightSSM/Android_Project_FinalExam.svg"/> <img src="https://img.shields.io/github/followers/StarlightSSM.svg?style=social&label=Follow&maxAge=2592000"/>
-
-<br>
-
-![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarlightSSM&show_icons=true&theme=dracula)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightSSM&theme=blue-green)
 
