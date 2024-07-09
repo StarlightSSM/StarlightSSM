@@ -71,9 +71,9 @@ Games I enjoy Most In... <br>
 
 <br>
 
-![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?StarlightSSM={StarlightSSM}&theme=blue-green)
+![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username={StarlightSSM}&theme=blue-green)
 
 <br>
 
-![Sumin's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?StarlightSSM={StarlightSSM}&theme=blue-green)
+![Sumin's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={StarlightSSM}&theme=blue-green)
 
