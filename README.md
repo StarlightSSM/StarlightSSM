@@ -74,5 +74,5 @@ Games I enjoy Most In... <br>
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightSSM&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightSSM&theme=blue-green)
 
