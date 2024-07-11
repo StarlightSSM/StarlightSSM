@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning React, NodeJS, and TypeScript(EveryTime I have a leisure Time) <br>
-🔭 I’m currently working on React Final Project <br>
+🔭 I’m currently working on React Project <br>
 
 <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/> <img src="https://img.shields.io/badge/EclipseIde-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
