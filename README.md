@@ -72,5 +72,5 @@ Games I enjoy Most In... <br>
 
 <br>
 
-<img src="https://img.shields.io/github/stars/StarlightSSM/Android_Project_FinalExam.svg"/> <img src="https://img.shields.io/github/followers/StarlightSSM.svg?style=social&label=Follow&maxAge=2592000"/>
+<img src="https://img.shields.io/github/stars/StarlightSSM/"/> <img src="https://img.shields.io/github/followers/StarlightSSM.svg?style=social&label=Follow&maxAge=2592000"/>
 
