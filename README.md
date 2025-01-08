@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=buz0104)](https://solved.ac/buz0104)
 
 <br>
 
