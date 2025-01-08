@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 
 <br>
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+<br>
+
 ![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarlightSSM&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightSSM&theme=blue-green)
