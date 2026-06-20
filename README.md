@@ -55,7 +55,7 @@ Cloud Platform... <br>
 
 <br>
 
-Had Programming Expreience and got Educations (A little bit Knowledge) <br>
+Had Programming Experience and got Educations (A little bit Knowledge) <br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
