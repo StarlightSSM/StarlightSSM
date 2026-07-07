@@ -32,12 +32,6 @@ Here are some ideas to get you started:
 
 <br>
 
-![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarlightSSM&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightSSM&theme=blue-green)
-
-<br>
-
 Skills <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"/>
