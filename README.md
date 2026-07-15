@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/> <img src="https://img.shields.io/badge/EclipseIde-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Netflix-E50914?style=flat-square&logo=netflix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=flat-square&logo=windows%20terminal&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat-square&logo=Google-chrome&logoColor=white"/> <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=flat-square"/>
+
+<br>
+
+<img width="1180" height="610" alt="dark (1)" src="https://github.com/user-attachments/assets/4a3508f0-a55b-4409-9844-d50257e27a50" />
+
+<br>
+<br>
+
 <!--
 **StarlightSSM/StarlightSSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,19 +33,6 @@ Here are some ideas to get you started:
 🌱 I’m currently learning React, NodeJS, and TypeScript(EveryTime I have a leisure Time), Flask(Python server + etc) <br>
 🔭 I’m currently updating on Completed React Project <br>
 
-<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/> <img src="https://img.shields.io/badge/EclipseIde-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Netflix-E50914?style=flat-square&logo=netflix&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=flat-square&logo=windows%20terminal&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat-square&logo=Google-chrome&logoColor=white"/> <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=flat-square"/>
-
-<br>
-
-<img width="1180" height="610" alt="dark (1)" src="https://github.com/user-attachments/assets/4a3508f0-a55b-4409-9844-d50257e27a50" />
-
-<br>
 <br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=buz0104)](https://solved.ac/buz0104)
