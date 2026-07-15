@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <img width="1180" height="610" alt="dark (1)" src="https://github.com/user-attachments/assets/4a3508f0-a55b-4409-9844-d50257e27a50" />
 
 <br>
+<br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=buz0104)](https://solved.ac/buz0104)
 
